@@ -1,0 +1,14 @@
+1.Books
+	1.book id   
+	2.book name	
+	3.book no.
+	4.book author
+2.Members
+	1.Member id
+	2.Member name
+	3.member class and section
+
+3.issued books
+	1.book id
+	2.member id
+	3.time of issuing
